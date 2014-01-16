@@ -12,3 +12,5 @@ The bot takes two arguments:
 > import favorite_bot
 
 > favorite_bot.auto_fav('github',13)
+
+The above example will favorite the first 13 tweets that have the keyword 'github' in them.
